@@ -1,0 +1,10 @@
+C:\Users\harit\Documents\Visual Studio 2017\Projects\A_Day_At_The_Races\A_Day_At_The_Races\bin\Debug\A_Day_At_The_Races.exe.config
+C:\Users\harit\Documents\Visual Studio 2017\Projects\A_Day_At_The_Races\A_Day_At_The_Races\bin\Debug\A_Day_At_The_Races.exe
+C:\Users\harit\Documents\Visual Studio 2017\Projects\A_Day_At_The_Races\A_Day_At_The_Races\bin\Debug\A_Day_At_The_Races.pdb
+C:\Users\harit\Documents\Visual Studio 2017\Projects\A_Day_At_The_Races\A_Day_At_The_Races\obj\Debug\A_Day_At_The_Races.csprojResolveAssemblyReference.cache
+C:\Users\harit\Documents\Visual Studio 2017\Projects\A_Day_At_The_Races\A_Day_At_The_Races\obj\Debug\A_Day_At_The_Races.Form1.resources
+C:\Users\harit\Documents\Visual Studio 2017\Projects\A_Day_At_The_Races\A_Day_At_The_Races\obj\Debug\A_Day_At_The_Races.Properties.Resources.resources
+C:\Users\harit\Documents\Visual Studio 2017\Projects\A_Day_At_The_Races\A_Day_At_The_Races\obj\Debug\A_Day_At_The_Races.csproj.GenerateResource.cache
+C:\Users\harit\Documents\Visual Studio 2017\Projects\A_Day_At_The_Races\A_Day_At_The_Races\obj\Debug\A_Day_At_The_Races.csproj.CoreCompileInputs.cache
+C:\Users\harit\Documents\Visual Studio 2017\Projects\A_Day_At_The_Races\A_Day_At_The_Races\obj\Debug\A_Day_At_The_Races.exe
+C:\Users\harit\Documents\Visual Studio 2017\Projects\A_Day_At_The_Races\A_Day_At_The_Races\obj\Debug\A_Day_At_The_Races.pdb
